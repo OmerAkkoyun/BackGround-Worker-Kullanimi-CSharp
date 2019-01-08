@@ -1,0 +1,10 @@
+C:\Users\Ömer\source\repos\DenemelerTestler\DenemelerTestler\bin\Debug\DenemelerTestler.exe.config
+C:\Users\Ömer\source\repos\DenemelerTestler\DenemelerTestler\bin\Debug\DenemelerTestler.exe
+C:\Users\Ömer\source\repos\DenemelerTestler\DenemelerTestler\bin\Debug\DenemelerTestler.pdb
+C:\Users\Ömer\source\repos\DenemelerTestler\DenemelerTestler\obj\Debug\DenemelerTestler.csprojAssemblyReference.cache
+C:\Users\Ömer\source\repos\DenemelerTestler\DenemelerTestler\obj\Debug\DenemelerTestler.Form1.resources
+C:\Users\Ömer\source\repos\DenemelerTestler\DenemelerTestler\obj\Debug\DenemelerTestler.Properties.Resources.resources
+C:\Users\Ömer\source\repos\DenemelerTestler\DenemelerTestler\obj\Debug\DenemelerTestler.csproj.GenerateResource.cache
+C:\Users\Ömer\source\repos\DenemelerTestler\DenemelerTestler\obj\Debug\DenemelerTestler.csproj.CoreCompileInputs.cache
+C:\Users\Ömer\source\repos\DenemelerTestler\DenemelerTestler\obj\Debug\DenemelerTestler.exe
+C:\Users\Ömer\source\repos\DenemelerTestler\DenemelerTestler\obj\Debug\DenemelerTestler.pdb
