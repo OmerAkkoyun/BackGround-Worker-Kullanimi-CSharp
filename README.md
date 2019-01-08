@@ -1,4 +1,4 @@
-# BackGround-Worker-Kullanimi-CSharp
+#Basit bir örnekle  BackGround-Worker-Kullanimi
 
 ![1](https://user-images.githubusercontent.com/33864154/50828471-89b38380-1352-11e9-859a-3685a61a202e.JPG)
 ![2](https://user-images.githubusercontent.com/33864154/50828475-8b7d4700-1352-11e9-8fa6-eef4dd43d8bf.JPG)
